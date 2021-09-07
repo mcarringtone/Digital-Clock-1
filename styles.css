@@ -1,0 +1,59 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  background: url(./img/flat_background.jpg);
+}
+.main{
+position: relative;
+
+}
+.square1{
+  height: 200px;
+  width: 500px;
+  background-color:#F5FDB0;
+  margin: 200px auto;
+  top: 25vh;
+  left: 25vh;
+  border-radius: 10px;
+
+}
+
+.square2{
+  height: 40px;
+  width: 100px;
+  padding: 5px 10px;
+  background: #F5FDB0; 
+  position: absolute;
+  left: 47%; 
+  top: -15px;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+  font-weight:bold;
+  font-size: 25px;
+  border:1px solid black;
+
+
+  }
+
+.square3{
+  background-color: #1a535c;
+  color:white;
+  text-align:center;
+  font-size:50px;
+  height:90px;
+  width: 500px;
+  padding-top:30px;
+  border-radius: 4px;
+  position: relative;
+  top: 50px;
+  margin: 0 auto;
+  font-family:  monospace;
+
+  }
+
+
+
